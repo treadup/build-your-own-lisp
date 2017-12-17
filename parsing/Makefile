@@ -1,5 +1,5 @@
 
 
-prompt: prompt.c
-	cc -std=c99 -Wall prompt.c -ledit -o prompt
+parsing: parsing.c
+	cc -std=c99 -Wall parsing.c -ledit -o parsing
 

@@ -4,6 +4,7 @@
 #include <editline/readline.h>
 #include <editline/history.h>
 
+#include "mpc.h"
 
 int main(int argc, char** argv) {
 
